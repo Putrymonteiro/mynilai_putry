@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MyNilai_Putry</string>
+
+    <string-array name="matkul">
+        <item>Bahasa Inggris</item>
+        <item>Simulator Pesawat Terbang</item>
+        <item>Mobile Computing</item>
+        <item>Komputasi Cerdas</item>
+        <item>Bahasa Indonesia</item>
+
+    </string-array>
+
+</resources>
